@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shen/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/Users/shen/AndroidStudioProjects/BluetoothChat/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/Users/shen/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/shen/AndroidStudioProjects/BluetoothChat/Application/src/main/res/menu/main.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shen/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/shen/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22b23015a83d06aa63f30dd753b745b07c02b262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shen/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f19f3cdb9a9cd8db4b2093baf30243bc9cfee85">
+        <dex dex="/Users/shen/AndroidStudioProjects/BluetoothChat/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0db654ef6c79394c3f0324636b7cc46174cc8d3d/classes.dex" />
+    </item>
+
+</items>
